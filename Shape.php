@@ -69,4 +69,3 @@ echo "Triangle height: " . $triangle->getHeight() . "\n";
 echo "Triangle base: " . $triangle->getBase() . "\n";
 
 ?>
-s
